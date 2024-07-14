@@ -1,0 +1,13 @@
+stm32f4test\lv_color.o: ..\Middlewares\LVGL\GUI\lvgl\src\misc\lv_color.c
+stm32f4test\lv_color.o: ..\Middlewares\LVGL\GUI\lvgl\src\misc\lv_color.h
+stm32f4test\lv_color.o: ..\Middlewares\LVGL\GUI\lvgl\src\misc\../lv_conf_internal.h
+stm32f4test\lv_color.o: D:\Software\keil5\ARM\ARMCC\Bin\..\include\stdint.h
+stm32f4test\lv_color.o: ..\Middlewares\LVGL\GUI\lvgl\src\misc\../lv_conf_kconfig.h
+stm32f4test\lv_color.o: ../Middlewares/LVGL/GUI/lvgl/examples/porting/../../lv_conf.h
+stm32f4test\lv_color.o: ..\Middlewares\LVGL\GUI\lvgl\src\misc\lv_assert.h
+stm32f4test\lv_color.o: ..\Middlewares\LVGL\GUI\lvgl\src\misc\lv_log.h
+stm32f4test\lv_color.o: ..\Middlewares\LVGL\GUI\lvgl\src\misc\lv_types.h
+stm32f4test\lv_color.o: ..\Middlewares\LVGL\GUI\lvgl\src\misc\lv_mem.h
+stm32f4test\lv_color.o: D:\Software\keil5\ARM\ARMCC\Bin\..\include\stddef.h
+stm32f4test\lv_color.o: D:\Software\keil5\ARM\ARMCC\Bin\..\include\string.h
+stm32f4test\lv_color.o: ..\Middlewares\LVGL\GUI\lvgl\src\misc\lv_math.h

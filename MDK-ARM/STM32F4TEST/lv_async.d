@@ -1,0 +1,12 @@
+stm32f4test\lv_async.o: ..\Middlewares\LVGL\GUI\lvgl\src\misc\lv_async.c
+stm32f4test\lv_async.o: ..\Middlewares\LVGL\GUI\lvgl\src\misc\lv_async.h
+stm32f4test\lv_async.o: ..\Middlewares\LVGL\GUI\lvgl\src\misc\lv_types.h
+stm32f4test\lv_async.o: D:\Software\keil5\ARM\ARMCC\Bin\..\include\stdint.h
+stm32f4test\lv_async.o: ..\Middlewares\LVGL\GUI\lvgl\src\misc\lv_mem.h
+stm32f4test\lv_async.o: ..\Middlewares\LVGL\GUI\lvgl\src\misc\../lv_conf_internal.h
+stm32f4test\lv_async.o: ..\Middlewares\LVGL\GUI\lvgl\src\misc\../lv_conf_kconfig.h
+stm32f4test\lv_async.o: ../Middlewares/LVGL/GUI/lvgl/examples/porting/../../lv_conf.h
+stm32f4test\lv_async.o: D:\Software\keil5\ARM\ARMCC\Bin\..\include\stddef.h
+stm32f4test\lv_async.o: D:\Software\keil5\ARM\ARMCC\Bin\..\include\string.h
+stm32f4test\lv_async.o: ..\Middlewares\LVGL\GUI\lvgl\src\misc\lv_timer.h
+stm32f4test\lv_async.o: D:\Software\keil5\ARM\ARMCC\Bin\..\include\stdbool.h

@@ -1,0 +1,13 @@
+stm32f4test\lv_lru.o: ..\Middlewares\LVGL\GUI\lvgl\src\misc\lv_lru.c
+stm32f4test\lv_lru.o: ..\Middlewares\LVGL\GUI\lvgl\src\misc\lv_lru.h
+stm32f4test\lv_lru.o: ..\Middlewares\LVGL\GUI\lvgl\src\misc\../lv_conf_internal.h
+stm32f4test\lv_lru.o: D:\Software\keil5\ARM\ARMCC\Bin\..\include\stdint.h
+stm32f4test\lv_lru.o: ..\Middlewares\LVGL\GUI\lvgl\src\misc\../lv_conf_kconfig.h
+stm32f4test\lv_lru.o: ../Middlewares/LVGL/GUI/lvgl/examples/porting/../../lv_conf.h
+stm32f4test\lv_lru.o: ..\Middlewares\LVGL\GUI\lvgl\src\misc\lv_types.h
+stm32f4test\lv_lru.o: D:\Software\keil5\ARM\ARMCC\Bin\..\include\stddef.h
+stm32f4test\lv_lru.o: ..\Middlewares\LVGL\GUI\lvgl\src\misc\lv_math.h
+stm32f4test\lv_lru.o: ..\Middlewares\LVGL\GUI\lvgl\src\misc\lv_mem.h
+stm32f4test\lv_lru.o: D:\Software\keil5\ARM\ARMCC\Bin\..\include\string.h
+stm32f4test\lv_lru.o: ..\Middlewares\LVGL\GUI\lvgl\src\misc\lv_assert.h
+stm32f4test\lv_lru.o: ..\Middlewares\LVGL\GUI\lvgl\src\misc\lv_log.h
